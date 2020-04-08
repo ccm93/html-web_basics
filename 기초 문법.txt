@@ -63,6 +63,50 @@ li태그가 그 위에있는 ul태그안에 묶여있다. (ul=unordered list)
   <li>순서없는리스트</li>
 </ul>
 
+-------------------------
+<!DOCTYPE html>
+DOCTYPE - "문서 형식 선언"(Document Type Declaration)
+작성한 html코드가 어떤 방식에 html 코드로 작성했는지 선언하는 브라우저에게 알려주는 그런 문자라고 볼수있다
+----------------------------------------------------------------------------------------------
+태그
+
+p태그 단락 
+br태그 줄바꿈
+img태그 img src="moy.jpg (사진불러올파일)" width="너비" height높이 alt="액박떴을때 설명(?)" title="이미지에 마우스 옮겼을 때 설명"
+table태그 table 묶어줘야함, border속성 테두리생성, tr 행, td 열의 각 항목-th 태그 글 진하게, thead테이블의 헤드부분 가장위에, tbody 테이블의 본문 부분 가운데, tfoot 테이블의 가장 아래쪽에 자동으로 이동,                 rowspan(속성) 수직으로(행) 테이블 병합,  colspan(속성) 수평으로(열) 테이블 병합,                                  <td rowspan="2"> 2개의 행이 병합된다.  <td colspan="3"> 3개의 열이 병합된다.  
+form태그  <form action="전송할주소입력">
+form 텍스트 입력 <textarea cols="열" rows="행">default value</textarea> 여러줄입력가능
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
